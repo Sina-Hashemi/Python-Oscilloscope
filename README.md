@@ -8,7 +8,7 @@ This project implements a simple oscilloscope using Python, allowing you to feed
 - Frequency and amplitude measurement
 - Adjustable voltage and time divisions
 - Support for sine, triangle, and square waves
-- GUI interface with start/stop functionality
+- GUI interface with start/stop functionality 
 
 ## Requirements
 
