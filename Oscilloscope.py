@@ -1,3 +1,7 @@
+/*
+Sina Hashemi , Mahan Zamani , Muhammadhossein Sabzalian
+*/
+
 import sys
 import math
 import pyaudio
