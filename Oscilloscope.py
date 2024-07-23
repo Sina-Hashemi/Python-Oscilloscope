@@ -1,6 +1,4 @@
-/*
-Sina Hashemi , Mahan Zamani , Muhammadhossein Sabzalian
-*/
+# Sina Hashemi , Mahan Zamani , Muhammadhossein Sabzalian
 
 import sys
 import math
